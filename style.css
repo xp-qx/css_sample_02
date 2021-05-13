@@ -1,0 +1,37 @@
+body {
+    background-color: yellowgreen;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: seagreen;
+}
+
+header {
+    padding: 40px;
+    height: 10px;
+    color: red;
+    background-color: teal;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: black;
+    color: white;
+    background-color: olive;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+    color: white;
+    background-color: MediumSeaGreen;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : LimeGreen;
+    color: white;
+}
